@@ -3,31 +3,20 @@ Building a healthy business requires a strong vision and values that underpin th
 
 These values are not 'rules' but rather a constantly evolving framework based on our research and conversations with our Healthy business Trailblazers.
 
-The
-Healthy
-Business
-values.
+The Healthy Business values.
 These are the values that we believe are key to building a healthy business.
-
 
 ## Members first
 Prioritize members' interests and delight them with your service or product.
 
-
-
 ## Fearless ambition
 Aim for the moon, then work backwards to define how to get there.
-
-
 
 ## Distributed ownership
 Empower employees with decision-making. 
 
-
-
 ## Radical transparency
 Make information written & public.
-
 
 ## Personal and community growth
 Invest in employees & team growth.
@@ -42,7 +31,7 @@ We ensure that ethics are always upheld,even if it costs us business, people, or
 
 *Limit: It doesn’t mean that “the customer is always right”: we acknowledge our mistakes and remain accountable, but we stand up to members who don’t treat us with respect.*
 
-### Striving to delight our members
+### Striving to delight our members
 We strive to make every interaction with our members a delightful experience triggering great emotions such as pleasure, satisfaction, or happiness.
 
 We’re friendly and empathetic, we give love to details (our emails always have a small joke or pun), and always provide more than what is expected. 
@@ -58,7 +47,7 @@ We build for the long-term: we imagine the outcome of our decisions, which helps
 
 We recognize that innovative ideas often fail but storing the learnings from those failures helps us grow.
 
-### Being mission-first & cultivate excellence
+### Being mission-first & cultivate excellence
 We strive to regularly "fire ourselves" from our current tasks, ensuring that we are automating, growing, and delegating enough.
 
 We value impact over hours worked or presence in the office and trust our team to organize their work in the best way possible to maximize their concentration and efficiency.
@@ -72,8 +61,7 @@ We don't limit people to very rigid positions and trust them to focus on the are
 
 We use the Keeper Test (from Netflix) to assess if people are still a good fit for the company, and set very high hiring standards. If the decision to part ways is made, we offer generous severance and support on finding next steps.
 
-### Not fearing contrarian ideas
-
+### Not fearing contrarian ideas
 We fight the "wrong" expertise by asking for specificity, using data to make better decisions, fighting motivated reasoning, and thinking from first principles.
 
 We challenge arguments from authority, avoid consensus-based decision-making, and push for creative contrarian thinking in order to have superior performance and deviate from the behaviors of the crowd, but we don’t force it.
@@ -113,9 +101,9 @@ No-one has a "positional authority", and we strive to find the best way to get t
 
 When people are not yet convinced we want their success, we challenge them by adding a lot of context on why we are doing it.
 
-‍*Limit: We challenge only if it’s worth it.We refrain from challenging when it's a low impact decision.*
+‍*Limit: We challenge only if it’s worth it. We refrain from challenging when it's a low impact decision.*
 
-### Bias to action
+### Bias to action
 We have a very high tempo, setting weekly and quarterly personal objectives and striving to deliver results as fast as possible.
 
 We prioritize assessing our appetite for external meeting requests, define the desired output before the meeting, and limit the duration to 40 minutes to maintain focus. 
@@ -131,7 +119,7 @@ Publicly sharing the problems we run into encourages collaboration and opens up 
 ‍*Limit: In some specific cases (e.g. departures), we can only be partially transparent for legal and personal reasons.*
 
 ### Written-first
-We are a writing-first company where everything that is not written is not considered as "official'' to ensure that everyone, from those not in the room to future employees, can benefit from the information. 
+We are a writing-first company where everything that is not written is not considered as "official" to ensure that everyone, from those not in the room to future employees, can benefit from the information. 
 
 We work asynchronously from anywhere with the timeline that is the most efficient for us, showing care and consideration for those who are structuring their day around different timelines.Consequently, we avoid meetings whenever possible or publicly share notes. 
 
