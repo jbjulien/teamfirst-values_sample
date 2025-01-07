@@ -1,8 +1,5 @@
-# Les valeurs d'une entreprise saine
 
 Construire une entreprise saine nécessite une vision forte et des valeurs qui sous-tendent toute l'organisation. Nous croyons qu'il existe quelques ingrédients clés pour une entreprise saine. Ces valeurs ne sont pas des « règles », mais plutôt un cadre évolutif basé sur nos recherches et nos discussions avec nos pionniers en matière d'entreprise saine.
-
-## Les valeurs d'une entreprise saine
 
 Voici les valeurs que nous considérons comme essentielles pour construire une entreprise saine.
 
